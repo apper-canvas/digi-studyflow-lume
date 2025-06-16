@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "name": "Mathematics",
+    "color": "#5B4CFF",
+    "icon": "Calculator"
+  },
+  {
+    "Id": 2,
+    "name": "English Literature",
+    "color": "#FF6B6B",
+    "icon": "BookOpen"
+  },
+  {
+    "Id": 3,
+    "name": "Chemistry",
+    "color": "#4ECDC4",
+    "icon": "FlaskConical"
+  },
+  {
+    "Id": 4,
+    "name": "History",
+    "color": "#FFD93D",
+    "icon": "Clock"
+  },
+  {
+    "Id": 5,
+    "name": "Computer Science",
+    "color": "#51CF66",
+    "icon": "Code"
+  },
+  {
+    "Id": 6,
+    "name": "Physics",
+    "color": "#339AF0",
+    "icon": "Atom"
+  }
+]

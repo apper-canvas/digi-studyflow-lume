@@ -1,0 +1,57 @@
+[
+  {
+    "Id": 1,
+    "title": "Complete Chapter 5 Calculus Problems",
+    "description": "Solve problems 1-25 from the derivatives section. Focus on chain rule applications.",
+    "subject": "Mathematics",
+    "dueDate": "2024-01-15T23:59:00.000Z",
+    "priority": "high",
+    "completed": false,
+    "createdAt": "2024-01-10T08:30:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 2,
+    "title": "Essay on Victorian Literature",
+    "description": "Write a 1500-word essay analyzing the themes in Charles Dickens' Great Expectations.",
+    "subject": "English Literature",
+    "dueDate": "2024-01-18T23:59:00.000Z",
+    "priority": "medium",
+    "completed": false,
+    "createdAt": "2024-01-12T14:20:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 3,
+    "title": "Lab Report - Chemical Reactions",
+    "description": "Document findings from the acid-base titration experiment performed in class.",
+    "subject": "Chemistry",
+    "dueDate": "2024-01-14T09:00:00.000Z",
+    "priority": "high",
+    "completed": true,
+    "createdAt": "2024-01-08T16:45:00.000Z",
+    "completedAt": "2024-01-13T20:15:00.000Z"
+  },
+  {
+    "Id": 4,
+    "title": "Study for History Midterm",
+    "description": "Review chapters 8-12 covering the Industrial Revolution and its social impacts.",
+    "subject": "History",
+    "dueDate": "2024-01-20T10:00:00.000Z",
+    "priority": "high",
+    "completed": false,
+    "createdAt": "2024-01-11T11:15:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 5,
+    "title": "Programming Assignment - Data Structures",
+    "description": "Implement a binary search tree with insert, delete, and search operations in Python.",
+    "subject": "Computer Science",
+    "dueDate": "2024-01-22T23:59:00.000Z",
+    "priority": "medium",
+    "completed": false,
+    "createdAt": "2024-01-13T09:30:00.000Z",
+    "completedAt": null
+  }
+]
